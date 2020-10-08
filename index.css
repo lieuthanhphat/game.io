@@ -3,10 +3,12 @@
 *{
 	padding: 0;
 	margin: 0;
-	box-sizing: border-box
+	box-sizing: border-box;
 }
 body{
-	background-color: #070A27
+	background-color: #070A27;
+	overflow-x: hidden
+	
 }
 .nav-cl{
 	background-color: #070A27;
